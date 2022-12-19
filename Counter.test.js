@@ -8,8 +8,8 @@ import {Counter} from './Counter';
 
 // jest.mock('react-native/Libraries/EventEmitter/NativeEventEmitter');
 
-const plot =
-  'Thinking he can overshadow an unknown actress in the part, an egocentric actor unknowingly gets a witch cast in an upcoming television remake of the classic sitcom Bewitched (1964).';
+const plot = 'matt';
+// 'Thinking he can overshadow an unknown actress in the part, an egocentric actor unknowingly gets a witch cast in an upcoming television remake of the classic sitcom Bewitched (1964).';
 
 describe('App', () => {
   it('fetches correctly', async () => {
